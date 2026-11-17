@@ -1,8 +1,8 @@
 # forge
 
-[![make.fun](https://make.fun/badge/competition/github-core-clone-01)](https://make.fun/bounty/github-core-clone-01)
-[![make.fun](https://make.fun/badge/owner/baladeirax)](https://make.fun/u/baladeirax)
-[![make.fun](https://make.fun/badge/repo/baladeirax/github-core-clone)](https://github.com/baladeirax/github-core-clone)
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/baladeirax/github-core-clone/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/baladeirax/github-core-clone/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
 
 A one-process, GitHub-compatible git forge in pure Node 22 TypeScript (stdlib
 only). No UI, no outside service, no git binary, no install step.
